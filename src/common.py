@@ -12,7 +12,6 @@ class Flowstats:
     # Header oriented stats
     first_ts: float
     last_ts: float
-    last_ts: float
     fwd_pkts: int = 0
     bwd_pkts: int = 0
     fwd_bytes: int = 0
