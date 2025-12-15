@@ -15,12 +15,12 @@ This includes (but is not limited to):
 
 ---
 
-# Packet Feature Forensics: Header vs Payload Features (CIC-IDS-2018)
+# Project introduction
 
 **Goal:** Build a small traffic-classification pipeline and empirically test:
 1) how well **header-only** packet/flow features classify attacks, and  
-2) whether adding **payload-derived** features improves performance,  
-3) whether payload features generalize across **different attack types**.
+2) whether adding **payload-derived** features improves performance  
+3) whether payload features generalize across **different attack types**
 
 You will use the **CSE-CIC-IDS2018** dataset (PCAPs on AWS Open Data).
 
